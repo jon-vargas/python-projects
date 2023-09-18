@@ -8,4 +8,4 @@ The topics of my projects will vary. I'm simply following my particular interest
 
 ## To Do
 - Update FRED Economic Analysis notebook: Plot and analyze S&P500 performance with inflation data
-- Upload first version of Personal Netflix Data Analysis notebook
+- Upload first version of Personal Netflix Data Analysis notebook - COMPLETE
