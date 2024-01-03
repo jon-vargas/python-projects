@@ -10,5 +10,6 @@ The topics of my projects will vary. I'm simply following my particular interest
 - Upload first version of FRED Economic Analysis notebook - COMPLETE
     - Plot and analyze S&P500 performance with inflation data
 - Upload first version of Personal Netflix Data Analysis notebook - COMPLETE
-    - See if we can add Genre data to dataframe
+    - Retrieve Genre data and add to dataframe
+    - Convert ploty graphs to matplotlib. GitHub lacks support for interactive visuals 
 - Research Spotipy Python library for a potential project
