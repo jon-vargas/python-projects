@@ -12,4 +12,6 @@ The topics of my projects will vary. I'm simply following my particular interest
 - Upload first version of Personal Netflix Data Analysis notebook - COMPLETE
     - Retrieve Genre data and add to dataframe
     - Convert ploty graphs to matplotlib. GitHub lacks support for interactive visuals 
-- Research Spotipy Python library for a potential project
+- Upload RESO scraper version 2. This will include:
+    - Funcationality to extract data from dynamic JavaScript code on site
+    - Data from all available Resources
